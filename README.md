@@ -1,4 +1,4 @@
-##Blog Platform - Frontend
+Blog Platform - Frontend
 Description
 This is the frontend for the Blog Platform application, built with Next.js (TypeScript) and styled using Tailwind CSS. It serves as the user interface for interacting with the blog platform, enabling users to view, create, and manage blog posts, and handle user authentication.
 
